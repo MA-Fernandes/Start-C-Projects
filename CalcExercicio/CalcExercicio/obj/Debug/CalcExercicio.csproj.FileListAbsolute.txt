@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\bin\Debug\CalcExercicio.exe.config
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\bin\Debug\CalcExercicio.exe
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\bin\Debug\CalcExercicio.pdb
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\obj\Debug\CalcExercicio.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\obj\Debug\CalcExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\obj\Debug\CalcExercicio.exe
+C:\Users\Matheus\Desktop\Curso C#\Calc\CalcExercicio\CalcExercicio\obj\Debug\CalcExercicio.pdb
